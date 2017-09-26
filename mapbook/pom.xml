@@ -1,19 +1,16 @@
 <project>
-<modelVersion>4.0.0</modelVersion>
-<groupId>RPK</groupId>
-<artifactId>mapbook</artifactId>
-<packaging>pom</packaging>
-<version>2.0</version>
-<name>junior</name>
-<url>http://maxrok@live.ru/</url>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>RPK</groupId>
+    <artifactId>mapbook</artifactId>
+    <packaging>pom</packaging>
+    <version>2.0</version>
+    <name>junior</name>
+    <url>http://maxrok@live.ru/</url>
 
-<properties>
-<maven.compiler.source>1.8</maven.compiler.source>
-<maven.compiler.target>1.8</maven.compiler.target>
-<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-</properties>
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
-<modules>
-<module>mapbook</module>
-</modules>
 </project>
